@@ -29,6 +29,9 @@ A programa deverá realizar as seguintes ações escolhidas pelo usuário:
 + sacar valor
 + obter o saldo disponível
 
+Qualquer das operações solicitadas deverá imprimir uma mensagem no console de acordo com<br>
+com a operação realizada.
+
 ### Observações Importantes
 
 Caso o usuário tente sacar um valor superior ao valor que ele possua em conta, informar:

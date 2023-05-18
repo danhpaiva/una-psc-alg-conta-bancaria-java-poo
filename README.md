@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="logo\x.png" width="300" alt="Conta Bancária">
+    <img src="logo\banco.png" width="300" alt="Conta Bancária">
   </a>
 </p>
 
